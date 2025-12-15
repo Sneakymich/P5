@@ -9,7 +9,8 @@
 namespace upc {
   class InstrumentDumb: public upc::Instrument {
     EnvelopeADSR adsr;
-    unsigned int index;
+    float phase;
+    float incr_phase;
 	float A;
     std::vector<float> tbl;
   public:
