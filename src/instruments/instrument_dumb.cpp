@@ -29,7 +29,7 @@ InstrumentDumb::InstrumentDumb(const std::string &param)
   phase = 0;
   for (int i=0; i < N ; ++i) {
     tbl[i] = sin(phase);
-    phase += incr_phase;
+    phase += step;
   }
 }
 
