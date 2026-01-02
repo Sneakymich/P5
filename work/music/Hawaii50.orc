@@ -1,0 +1,10 @@
+# Hawaii 5-0 - 9 canales
+3	InstrumentFM	ADSR_A=0.01; ADSR_D=0.05; ADSR_S=0.7; ADSR_R=0.15; N1=3.0; N2=1.0; I=6.0;
+5	InstrumentFM	ADSR_A=0.02; ADSR_D=0.1; ADSR_S=0.8; ADSR_R=0.3; N1=1.0; N2=1.0; I=3.0;
+7	InstrumentFM	ADSR_A=0.01; ADSR_D=0.08; ADSR_S=0.6; ADSR_R=0.25; N1=2.0; N2=1.5; I=4.0;
+8	InstrumentSeno	ADSR_A=0.01; ADSR_D=0.2; ADSR_S=0.5; ADSR_R=0.4;
+9	InstrumentFM	ADSR_A=0.005; ADSR_D=0.02; ADSR_S=0.4; ADSR_R=0.1; N1=2.0; N2=1.0; I=10.0;
+10	InstrumentFM	ADSR_A=0.005; ADSR_D=0.02; ADSR_S=0.4; ADSR_R=0.1; N1=2.0; N2=1.0; I=10.0;
+12	InstrumentFM	ADSR_A=0.015; ADSR_D=0.06; ADSR_S=0.5; ADSR_R=0.3; N1=1.0; N2=1.414; I=7.0;
+13	InstrumentFM	ADSR_A=0.015; ADSR_D=0.06; ADSR_S=0.5; ADSR_R=0.3; N1=1.0; N2=1.414; I=7.0;
+14	InstrumentFM	ADSR_A=0.01; ADSR_D=0.03; ADSR_S=0.6; ADSR_R=0.2; N1=1.0; N2=2.0; I=8.0;
